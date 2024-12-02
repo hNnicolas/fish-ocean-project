@@ -22,7 +22,7 @@ Voici un aperçu des technologies et des outils utilisés dans le projet :
 
 - **Océan dynamique en 3D** : Représentation d'un océan fluide avec des vagues animées, créées à l'aide de **Three.js** et de techniques de bruit procédural.
 - **Poissons animés** : Modélisation 3D des poissons nageant de manière réaliste, avec des comportements basés sur la physique sous-marine.
-- **Lumière et ombres réalistes** : Effets d'éclairage dynamique donnant un aspect réaliste à l'eau et aux poissons.
+- **Lumière et ombres réalistes** : Effets d'éclairage dynamique créés avec **GLSL**, donnant un aspect réaliste à l'eau et aux poissons.
 - **Interactivité** : Permet aux utilisateurs d'interagir avec l'environnement en modifiant l'angle de vue et en observant les poissons réagir aux changements dans l'océan.
 - **Rendu temps réel** : Le projet utilise **React Fiber** pour garantir un rendu fluide des composants 3D, tout en maintenant une interface utilisateur interactive.
 
